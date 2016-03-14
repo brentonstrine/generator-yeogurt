@@ -16,7 +16,7 @@ An example link module:
 ```
 
 Each module should include a template, javascript file, stylesheet, and unit test file (if doing unit testing).
-These files should use the same name, i.e `link`. If you don't need one of the files in a module, feel free to delete it.
+These files should use the same name, e.g. `link`. If you don't need one of the files in a module, feel free to delete it.
 
 ## Sub-generator
 
